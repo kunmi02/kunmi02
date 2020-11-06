@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kunmi02)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kunmi02&count_private=true)
+![Azeez's github stats](https://github-readme-stats.vercel.app/api?username=kunmi02&count_private=true)
 
 
 <!--

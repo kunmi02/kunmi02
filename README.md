@@ -24,11 +24,16 @@ Here are some ideas to get you started:
 
 <p align='center'> <img src='https://github-readme-stats.vercel.app/api?username=kunmi02&count_private=true&show_icons=true&theme=dark'> </p>
 
+<p align='center'> [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)](https://github.com/kunmi02) </p>
+
 
 <p align='center'>
-  I'm currently a <b>student</b> at <strong><a href='https://microverse.org'>microverse</a></strong> <br />
-  Talk about <strong>Software Development</strong> and I'm your guy 👯 <br />
-  You can connect me on  <a href="https://github.com/kunmi02">Github</a> | <a href="https://linkedin.com/in/akinkunmi006">LinkedIn</a> | <a href="https://twitter.com/akinkunmi006">Twitter</a> <br />
-  I wish to make <strong>writing</strong> my hubby, but I'm currently struggling with it 😄 <br />
-  I nourish my mind most times, with <strong>documentaries</strong> :heartbeat:
+  I'm currently on becoming a <b>fullstack Engineer </b> at <strong><a href='https://microverse.org'>microverse</a></strong> 🌱 <br />
+  Talk about <strong>Software Development</strong> and a problem solver, I am your sure guy 👯 <br />
+  Writing code is beyond just being a career path but also part of my daily life. <br/>
+  👯 I’m looking to collaborate with dedicated engineers who are into building realtime solutions to immediate problems <br/>
+  <b>📫 How to reach me: </b>You can connect me on  <a href="https://github.com/kunmi02">Github</a> | <a href="https://linkedin.com/in/akinkunmi006">LinkedIn</a> | <a href="https://twitter.com/akinkunmi006">Twitter</a> <br />
+  I wish to make <strong>writing</strong> my hobby, but I'm currently struggling with it 😄 <br />
+  I nourish my mind most times, with <strong>movies</strong> :heartbeat:
+  ⚡ Fun fact: 🤔 🤔 🤔 🤔........ Reach out to me to find out 😄
 </p>

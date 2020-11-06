@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 
 <p align='center'> <img src='https://github-readme-stats.vercel.app/api?username=kunmi02&count_private=true&show_icons=true&theme=dark'> </p>
 
-<p align='center'> [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)](https://github.com/kunmi02) </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 
 <p align='center'>

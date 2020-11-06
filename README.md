@@ -31,12 +31,14 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  I'm currently on becoming a <b>fullstack Engineer </b> at <strong><a href='https://microverse.org'>microverse</a></strong> 🌱 <br />
+  I'm currently working on becoming a <b>fullstack Engineer </b> at <strong><a href='https://microverse.org'>microverse</a></strong> 🌱 <br />
   Talk about <strong>Software Development</strong> and a problem solver, I am your sure guy 👯 <br />
   Writing code is beyond just being a career path but also part of my daily life. <br/>
   👯 I’m looking to collaborate with dedicated engineers who are into building realtime solutions to immediate problems <br/>
+  <h3>Find me around the web 🌎: </h3>
   <b>📫 How to reach me: </b>You can connect me on  <a href="https://github.com/kunmi02">Github</a> | <a href="https://linkedin.com/in/akinkunmi006">LinkedIn</a> | <a href="https://twitter.com/akinkunmi006">Twitter</a> <br />
+  <p>
   I wish to make <strong>writing</strong> my hobby, but I'm currently struggling with it 😄 <br />
   I nourish my mind most times, with <strong>movies</strong> :heartbeat:
-  ⚡ Fun fact: 🤔 🤔 🤔 🤔........ Reach out to me to find out 😄
+  ⚡ Fun fact: 🤔 🤔 🤔 🤔........ Reach out to me to find out 😄</p>
 </p>

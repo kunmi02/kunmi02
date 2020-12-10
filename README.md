@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <p align='center'>I'm a <strong>Software Engineer</strong> from <strong>Nigeria</strong> :nigeria: West Side of <strong>Africa</strong> :earth_africa:	</p>
 
 <p align='center'> <img src='https://github-readme-stats.vercel.app/api?username=kunmi02&count_private=true&show_icons=true&theme=dark'> </p>
-<p align='center'>
+<! -- <p align='center'>
 <a href="https://github.com/kunmi02">
   <img align='right' src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kunmi02&layout=compact&theme=radical" />
 </a>
-</p>
+</p> -->
 
 
 <p align="center"> 

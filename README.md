@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
   I'm currently working on becoming a <b>fullstack Engineer </b> at <strong><a href='https://microverse.org'>microverse</a></strong> 🌱 <br />
-  Talk about <strong>Software Development</strong> and a problem solver, I am your sure guy 👯 ... I am CODE-BLOODED 😄<br />
+  Talk about <strong>software development</strong> and a problem solver, I am your sure guy 👯 ... I am CODE-BLOODED 😄<br />
   👯 I’m looking to collaborate with dedicated engineers who are into building realtime solutions to immediate problems <br/></p>
 
   <h3  align='center'>Find me around the web 🌎: </h3>

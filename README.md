@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  I am a Full-stack software Engineer with over 3 years experience. I have gathered hands-on experience working in full-time and freelancing roles for local companies in my country(Nigeria) and also outside my country remotely. I have acquired skills in most phases of software development including professional experience with industry best practices(Git Flow, Linters, Pair Programming, OOP, SOLID, MVC, TDD) and mastering mainstream technologies in web development(Python, Ruby on Rails, React/Redux, JavaScript(ES6), SQL and ORMs) by building 20+ real-world projects. I also have some projects which I have worked on in the production environment.
+  I am a Full-stack software Engineer with over 5 years experience. I have gathered hands-on experience working in full-time and freelancing roles for local companies in my country(Nigeria) and also outside my country remotely. I have acquired skills in most phases of software development including professional experience with industry best practices(Git Flow, Linters, Pair Programming, OOP, SOLID, MVC, TDD) and mastering mainstream technologies in web development(Python, Ruby on Rails, React/Redux, JavaScript(ES6), SQL and ORMs) by building 20+ real-world projects. I also have some projects which I have worked on in the production environment.
   Talk about <strong>Software Development</strong> and a problem solver, I am your sure guy 👯 ... I am CODE-BLOODED 😄<br />
   👯 I’m looking to collaborate with dedicated engineers who are into building realtime solutions to immediate problems <br/></p>
 
